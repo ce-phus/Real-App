@@ -1,0 +1,116 @@
+2024-05-18 07:09:38,131 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:14:33,669 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/real_estate/settings.py changed, reloading.
+2024-05-18 07:14:34,391 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:14:35,569 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/real_estate/settings.py changed, reloading.
+2024-05-18 07:14:36,237 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:14:56,552 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/real_estate/settings.py changed, reloading.
+2024-05-18 07:14:57,321 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:16:24,199 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/real_estate/settings.py changed, reloading.
+2024-05-18 07:16:25,205 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:27:24,001 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:27:24,780 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:27:26,981 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:27:27,733 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:27:28,920 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:27:29,674 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:27:35,065 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:27:35,939 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:27:50,240 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:27:50,991 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:27:57,223 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:27:58,019 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:00,371 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:01,114 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:06,515 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:07,297 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:08,486 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:09,241 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:11,437 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:12,363 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:13,554 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:14,317 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:16,651 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:17,399 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:19,604 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:20,324 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:28,567 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:29,372 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:32,728 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:33,529 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:38,752 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:39,446 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:40,633 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:41,420 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:43,615 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:44,338 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:50,744 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:51,468 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:57,889 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:28:58,665 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:28:59,858 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:29:00,770 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:29:26,607 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/managers.py changed, reloading.
+2024-05-18 07:29:27,335 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:29:33,732 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/managers.py changed, reloading.
+2024-05-18 07:29:34,479 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:06,434 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/managers.py changed, reloading.
+2024-05-18 07:30:07,173 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:38,104 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:30:38,894 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:41,226 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:30:42,042 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:45,386 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:30:46,154 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:49,370 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:30:50,073 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:52,271 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:30:53,034 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:55,234 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:30:56,003 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:57,190 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:30:57,974 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:30:59,165 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:30:59,982 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:01,172 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:01,934 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:04,131 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:04,915 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:07,113 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:07,847 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:11,161 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:12,026 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:14,226 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:15,081 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:17,391 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:18,286 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:19,476 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:20,255 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:21,543 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:22,346 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:25,677 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:26,549 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:27,842 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:28,609 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:32,955 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:33,730 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:35,931 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:36,654 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:39,862 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:40,597 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:42,912 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:43,678 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:47,896 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:48,692 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:51,899 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:52,708 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:53,896 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:54,628 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:31:56,827 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/apps/users/models.py changed, reloading.
+2024-05-18 07:31:57,546 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:38:02,612 django.utils.autoreload INFO     /home/cephus/Documents/real-app/backend/real_estate/real_estate/settings.py changed, reloading.
+2024-05-18 07:38:03,402 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:38:35,702 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:49:57,482 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2024-05-18 07:50:00,273 django.request WARNING  Not Found: /static/admin/css/fonts.css
+2024-05-18 07:50:02,797 django.request WARNING  Not Found: /highLightTitle.png
+2024-05-18 07:50:26,002 django.request WARNING  Not Found: /admin/highLightTitle.png
